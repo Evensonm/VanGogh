@@ -1,0 +1,155 @@
+body {
+  background-color: #093d91;
+}
+
+.star1 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 20%;
+  left: 5%;
+}
+
+.star2 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 19%;
+  left: 22%;
+}
+
+.star3 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 2%;
+  left: 40%;
+}
+
+.star4 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 17%;
+  left: 41%;
+}
+
+.star5 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 37%;
+  left: 43%;
+}
+
+.star6 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 19%;
+  left: 48%;
+}
+
+.star7 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 21%;
+  left: 52%;
+}
+
+.star8 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 25%;
+  left: 57%;
+}
+
+.star9 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 23%;
+  left: 64%;
+}
+
+.star10 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 35%;
+  left: 80%;
+}
+
+.star11 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 22%;
+  left: 90%;
+}
+
+.star12 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 1%;
+  left: 50%;
+}
+
+.star13 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 1%;
+  left: 63%;
+}
+
+.star14 {
+  background-color: yellow;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 35%;
+  left: 60%;
+}
+
+.lower-half{
+    margin-top: 45%;
+    margin-left: 0%;
+    padding: 0%;
+    position: absolute;
+    background-color: #062e78;
+    width: 100%;
+    height:100% 
+
+}
+
