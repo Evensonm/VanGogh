@@ -153,3 +153,76 @@ body {
 
 }
 
+.burst-1 {
+  background: yellow;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  text-align: center;
+  transform: rotate(20deg);
+  margin-top: 20%;
+  left: 8%;
+}
+
+.burst-1:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 10px;
+  width: 10px;
+  background: yellow;
+  transform: rotate(135deg);
+}
+
+.burst-2 {
+  background: yellow;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  text-align: center;
+  transform: rotate(20deg);
+  margin-top: 21%;
+  left: 50%;
+}
+
+.burst-2:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 10px;
+  width: 10px;
+  background: yellow;
+  transform: rotate(135deg);
+}
+
+.burst-3 {
+  background: yellow;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  text-align: center;
+  transform: rotate(20deg);
+  margin-top: 7%;
+  left: 75%;
+}
+
+.burst-3:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 10px;
+  width: 10px;
+  background: yellow;
+  transform: rotate(135deg);
+}
+
+.bottomright {
+  position:absolute
+  width: 200px;
+  aspect-ratio: 1;
+  clip-path: polygon(55% 75%,100% 100%,0 100%);
+  background: linear-gradient(15deg,darkblue,lightblue);
+}
