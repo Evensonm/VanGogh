@@ -300,3 +300,57 @@ body {
   margin-left: -3px;
   top: 42%;
 }
+
+.line9 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 10%;
+  margin-left: -3px;
+  top: 44%;
+}
+
+.line10 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 11%;
+  margin-left: -3px;
+  top: 42%;
+}
+
+.line11 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 12%;
+  margin-left: -3px;
+  top: 44%;
+}
+
+.line12 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 13%;
+  margin-left: -3px;
+  top: 42%;
+}
+
+.line13 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 14%;
+  margin-left: -3px;
+  top: 44%;
+}
+
+.line14 {
+  border-left: 7px solid black;
+  height: 10%;
+  position: absolute;
+  left: 15%;
+  margin-left: -3px;
+  top: 42%;
+}
