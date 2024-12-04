@@ -354,3 +354,39 @@ body {
   margin-left: -3px;
   top: 42%;
 }
+
+.rectangle1 {
+  height: 50px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+  left:45%;
+  top: 50%;
+}
+
+.rectangle2 {
+  height: 50px;
+  width: 125px;
+  background-color: yellow;
+  position: absolute;
+  left:47%;
+  top: 45%;
+}
+
+.rectangle3 {
+  height: 50px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  left:50%;
+  top: 55%;
+}
+
+.rectangle4 {
+  height: 50px;
+  width: 75px;
+  background-color: yellow;
+  position: absolute;
+  left:52%;
+  top: 60%;
+}
